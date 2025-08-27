@@ -14,7 +14,7 @@ public class PromedioNumeros {
        nota1 = lectura.nextDouble();       
        System.out.print("Ingrese Nota 2 : ");
        nota2= lectura.nextDouble();
-       
+       System.out.println("Resultados de la aplicacion");
        promedio=(nota1+nota2)/2;
        System.out.println("Nota 1 : " + nota1);
        System.out.println("Nota 2 : " + nota2);            
